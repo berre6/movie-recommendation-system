@@ -18,7 +18,7 @@ git clone https://github.com/berre6/https://github.com/berre6/movie-recommendati
 cd https://github.com/berre6/movie-recommendation-system
 pip install -r requirements.txt
 streamlit run app.py
-
+```
 
 USAGE
 
@@ -29,7 +29,7 @@ USAGE
 3-See top 5 recommendations with posters
 
 
-```markdown
+## 🎨 Screenshots
 
-![Demo](screenshots/Ekran görüntüsü 2026-02-20 175911.png)
-![Poster](screenshots/Ekran görüntüsü 2026-02-20 175911.png)
+![Demo1](screenshots/Demo1.png)
+![Demo2](screenshots/Demo2.png)
